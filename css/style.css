@@ -1,0 +1,22 @@
+
+.top-navigation {
+	background-color: #fff;
+}
+
+.top-navigation > .content {
+	width: 970px;
+	height: 70px;
+	margin-right: auto;
+	padding: 0.7em 24em;
+	box-sizing: border-box;
+}
+
+.top-navigation > .links {
+	float: right;
+	margin-right: 50px;
+	margin-top: -75px;
+}
+
+.links > li {
+	display: inline-block;
+}
