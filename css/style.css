@@ -39,9 +39,9 @@ html {
 	font-weight: 500;
 }
 
-.top-navigation .links > li:hover {
-	background-color: #333333;
+.top-navigation .links li:hover {
 	cursor: pointer;
+	background-color: #333333;
 }
 
 .introduction {
@@ -68,4 +68,25 @@ html {
 .introduction h3 {
 	margin-top: -1em;
 	font-size: 1.563rem;
+}
+
+.big-button {
+	width: 9rem;
+	background-color: #f15a29;
+	border-color: #f15a29;
+	text-shadow: none;
+	border-style: none;
+	border-radius: 4px;
+	padding: 1rem 1.5rem;
+	color: white;
+	line-height: 1.33;
+	margin: 0 auto;
+	font-size: 1.125rem;
+	display: block;
+}
+
+.big-button:hover {
+	background-color: #d9400e;
+	border-color: #cf3d0e;
+	cursor: pointer;
 }
