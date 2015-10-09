@@ -44,15 +44,10 @@ html {
 	cursor: pointer;
 }
 
-.background-image {
-	position: relative;
-	width: 100%;
-}
-
-.background > h1 {
-	color: white;
-	font-size: 3em;
-	position: absolute;
-	top: 200px;
-	width: 100%;
+.introduction {
+	background-image: url('../images/first-background copy.jpg');
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:42em;
 }
