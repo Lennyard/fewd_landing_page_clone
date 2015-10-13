@@ -107,7 +107,7 @@ html {
 }
 
 .cases .devices {
-	width: 33%;
+	width: 33.3333333%;
 	float: left;
 }
 
@@ -115,4 +115,32 @@ html {
 	margin: 2.5rem 0px 1.875rem;
 	font-weight: 400;
 	font-size: 1.563em;
+}
+
+.device-container {
+	width: 75%;
+	margin: 0 auto;
+}
+
+.social hr {
+	border: 0;
+    border-top: 1px solid #eaebec;
+    margin: 1.313rem 0;
+}
+
+.social {
+	padding-bottom: 9.375rem;
+	text-align: center;
+}
+
+.social .icons > li {
+	text-align: center;
+	display: inline-block;
+	border: 1px solid;
+	border-radius: 1.25rem;
+	width:2.5rem;
+	height: 2.5rem;
+	margin: 1.25rem 5px;
+	padding: 0.625rem 0;
+
 }
