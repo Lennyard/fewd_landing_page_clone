@@ -168,3 +168,9 @@ html {
 .social .instagram {
 	color: #3F729B;
 }
+
+.copy {
+	font-weight: 300;
+	font-size: 14px;
+	color: grey;
+}
